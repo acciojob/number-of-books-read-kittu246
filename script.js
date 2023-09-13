@@ -32,4 +32,4 @@ let count = 0;
 
 // Do not change the code below
 
-// alert(numberOfBooksRead());
+alert(numberOfBooksRead());
